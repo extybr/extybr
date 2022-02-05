@@ -34,4 +34,4 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=extybr&theme=solarized_dark)
+![Jokes Card](https://readme-jokes.vercel.app/api)
