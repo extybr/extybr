@@ -1,7 +1,7 @@
-### Hi there <img src="Hi.gif" height="32"/>😎
+### Hi there <img src="Hi.gif" height="32"/><img src="man.gif" height="40"/>
 
 <!--
-**extybr/extybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎**extybr/extybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
