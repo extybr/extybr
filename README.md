@@ -1,4 +1,4 @@
-### <h2>Hi there, <img src="Hi.gif" height="32"/><img src="man.gif" height="40"/> I'm <a href="../../../" target="_blank">Andrey <img src="../../../../fluidicon.png" height="32"/></a></h2>
+### <h2>Hi there, <img src="hi.png" height="32"/><img src="man.png" height="40"/> I'm <a href="../../../" target="_blank">Andrey <img src="../../../../fluidicon.png" height="32"/></a></h2>
 <a href="https://t.me/ploav" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <!--
 😎🇷🇺**extybr/extybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
