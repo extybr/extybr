@@ -1,20 +1,17 @@
-### <h2>Hi there, <img src="hi.png" height="32"/><img src="man.png" height="40"/> I'm <a href="../../../" target="_blank">Andrey <img src="../../../../fluidicon.png" height="32"/></a></h2>
+<a href="../../../" target="_blank"><img src="hi.png" height="32"/> <img src="man.png" height="40"/> <img src="https://img.shields.io/badge/Hi there,-I'm Andrey-blue" height="25"/><img src="../../../../fluidicon.png" height="36"/></a> 
+## 
 <a href="https://t.me/ploav" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <!--
-😎🇷🇺**extybr/extybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+😎**extybr/extybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 https://github.com/Ileriayo/markdown-badges
--->
-<h3 align="center">
 <img src="https://komarev.com/ghpvc/?username=extybr&color=green" height="3"/>
+-->
 <!--
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
